@@ -1,0 +1,23 @@
+___awdiv: CODE, 2292 0 164
+_reset: CODE, 3400 0 46
+_dispalay_string: CODE, 3018 0 106
+__stringdata: SMALLCONST, 1553 0 41
+_write_data: CODE, 3526 0 22
+_Read_bit: CODE, 3124 0 78
+___awmod: CODE, 2614 0 144
+_main: CODE, 2758 0 142
+___delay_s: CODE, 3202 0 74
+_Write_bit: CODE, 3338 0 62
+_Clock_display: CODE, 2006 0 286
+_ConvertT: CODE, 3500 0 26
+_write_com: CODE, 3548 0 18
+_read_T: CODE, 3276 0 62
+__initialization: CODE, 3474 0 12
+_busy_bus: CODE, 3566 0 18
+_dispalay: CODE, 3446 0 28
+_LCD_init: CODE, 2900 0 118
+_Clean_screen: CODE, 3584 0 16
+_Time_display: CODE, 1596 0 410
+_HighInt: CODE, 8 0 2606
+_tablexiao: SMALLCONST, 1537 0 16
+Total: 4495
